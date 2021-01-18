@@ -1,7 +1,7 @@
 # <font size=20>Utils</font>
 Java基础工具类集合
 
-## <font size=6 face="楷体">包分组说明</font>
+## <font size=6>包分组说明</font>
 	1、common   基础公共常量等
 	2、utils    工具类
 	
